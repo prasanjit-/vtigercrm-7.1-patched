@@ -1,3 +1,12 @@
+```
+Note: 
+In case you want to install the CRM from the pre-built database file, please import the database.sql file to your DB server and change config settings accordingly. If using the database.sql file for installation. The CRM user will be admin and password will be pA55W0rd which you can change them after logging in.
+Alternatively, you can opt for normal installation as per the docs.
+An automated installation script is also here for CentOS7 users - https://gist.github.com/prasanjit-/0033e4596aabff5101033c9762c5caa4
+
+```
+
+
 Vtiger CRM
 ==========
 
